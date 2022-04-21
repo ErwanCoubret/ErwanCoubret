@@ -10,6 +10,15 @@
 - 🚀&nbsp; **Physics**
 
 &nbsp;&nbsp;&nbsp;
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=My+best+projects+%F0%9F%9B%A0%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=My+projects+%F0%9F%9B%A0%EF%B8%8F)
+
+## ⭐ **ALL STARS PROJECTS**
+
+## 📊 **DATASCIENCE**
+- [Parcoursup data analyse](https://github.com/ErwanCoubret/Parcoursup)
+- [Discord Bot using YouTube API]()
+
+## 📐 **MATHS**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=My+social+networks++%F0%9F%96%87%EF%B8%8F)
+- [Twitter
