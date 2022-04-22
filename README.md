@@ -17,7 +17,7 @@ I am interested in data science, AI, robotics, IoT and would work in these field
 - (Working on it / Not published yet) [**Create the Trash can of the Future**]() (IoT, Data Science, Arduino)
 
 ## 📊 **DATASCIENCE**
-- [Parcoursup data analyse](https://github.com/ErwanCoubret/Parcoursup) (only for frenchs)
+- [Parcoursup data analyse](https://github.com/ErwanCoubret/Parcoursup) (only in french)
 - (Not published yet) [**Discord Bot using YouTube API**]()
 - (Not published yet) [**Tool for Instagram data anayse**]()
 
