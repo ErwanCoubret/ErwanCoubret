@@ -26,6 +26,9 @@ I am interested in data science, AI, robotics, IoT and would work in these field
 ## 📐 **MATHS**
 - (Not published yet) [**Create random distribution without library**]()
 
+## 🏠 **DOMOTIC**
+- (Working on it / Not published yet) [**Linking Minecraft to my house**]()
+
 ## 🖼️ **PICTURE MANIPULATION**
 - (Not published yet) [**Turning a picture into unicode**]()
 
