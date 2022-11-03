@@ -14,7 +14,7 @@ I am interested in data science, AI, robotics, IoT and would work in these field
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=My+projects+%F0%9F%9B%A0%EF%B8%8F)
 
 ## ⭐ **ALL STARS PROJECTS**
-- (Working on it / Not published yet) [**Creating Sm4rt Trash can for cities**]() (IoT, Data Science, Graphs, Arduino)
+- (Not published yet) [**Creating Sm4rt Trash can for cities**]() (IoT, Data Science, Graphs, Arduino)
 
 ## 📊 **DATASCIENCE**
 - [Parcoursup data analyse](https://github.com/ErwanCoubret/Parcoursup) (only in french)
