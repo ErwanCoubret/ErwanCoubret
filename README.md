@@ -2,35 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=Who+am+I+%3F+%F0%9F%91%80)
 
-🎓 I'm currently a **student in MP2I** (preparatory classroom in France). A course combining :
-
-- 📐&nbsp; **Maths**
-- ⌨️&nbsp; **Computer Science**
-- 🚀&nbsp; **Physics**
-
-I am interested in data science, AI, robotics, IoT and would work in these fields.
-
-&nbsp;&nbsp;&nbsp;
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=My+projects+%F0%9F%9B%A0%EF%B8%8F)
-
-## ⭐ **ALL STARS PROJECTS**
-- (Not published yet) [**Creating Sm4rt Trash can for cities**]() (IoT, Data Science, Graphs, Arduino)
-
-## 📊 **DATASCIENCE**
-- [Parcoursup data analyse](https://github.com/ErwanCoubret/Parcoursup) (only in french)
-- (Not published yet) [**Discord Bot using YouTube API**]()
-- (Not published yet) [**Tool for Instagram data anayse**]()
-
-## 🤖 **AI**
-
-## 📐 **MATHS**
-- (Not published yet) [**Create random distribution without library**]()
-
-## 🏠 **DOMOTIC**
-- (Working on it / Not published yet) [**Linking Minecraft to my house**]()
-
-## 🖼️ **PICTURE MANIPULATION**
-- (Not published yet) [**Turning a picture into unicode**]()
+🎓 Student following an engineering degree in Computer Science at [Télécom Physique Strasbourg](https://www.telecom-physique.fr/) in France
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=FFFFFF&width=1000&lines=My+social+networks++%F0%9F%96%87%EF%B8%8F)
 
