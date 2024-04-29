@@ -8,6 +8,5 @@
 
 <p float="left">
   <a href="https://twitter.com/ErwanCoubret"> <img src="/twitter.png" width="100" /> </a>
-  <a href="https://www.youtube.com/channel/UCQ-GCidohpSwrlAabQ1iLoQ"> <img src="/youtube.png" width="100" /> </a>
   <a href="https://www.linkedin.com/in/erwan-coubret/"> <img src="/linkedin.png" width="100" /> </a>
 </p>
